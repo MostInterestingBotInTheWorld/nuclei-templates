@@ -7,7 +7,7 @@ info:
   description: Karel IP Phone IP1211 Web Management Panel is vulnerable to local file inclusion and can allow remote attackers to access arbitrary files stored on the remote device via the 'cgiServer.exx' endpoint and the 'page' parameter.
   reference:
     - https://cxsecurity.com/issue/WLB-2020100038
-    - https://www.karel.com.tr/urun-cozum/ip1211-ip-telefon
+    - https://web.archive.org/web/20210124022600/https://www.karel.com.tr/urun-cozum/ip1211-ip-telefon
   classification:
     cvss-metrics: CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
     cvss-score: 7.5

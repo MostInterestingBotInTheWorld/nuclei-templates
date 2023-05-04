@@ -9,7 +9,7 @@ info:
   metadata:
     verified: "true"
     shodan-query: title:"Magnolia Installation"
-  tags: magnolia,exposure,installer
+  tags: magnolia,exposure,install
 
 http:
   - method: GET

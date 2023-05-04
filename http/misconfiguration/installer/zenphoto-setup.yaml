@@ -12,7 +12,7 @@ info:
   metadata:
     verified: true
     shodan-query: title:"Zenphoto install"
-  tags: panel,zenphoto,setup,installer
+  tags: panel,zenphoto,setup,install
 
 http:
   - method: GET

@@ -7,7 +7,7 @@ info:
   metadata:
     verified: true
     shodan-query: http.title:"MetaView Explorer"
-  tags: misconfig,metaview,installer
+  tags: misconfig,metaview,install
 
 http:
   - method: GET

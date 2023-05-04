@@ -14,7 +14,7 @@ info:
   metadata:
     verified: true
     shodan-query: title:"- setup" html:"Modem setup"
-  tags: scada,circontrol,circarlife,setup,exposure,panel,installer
+  tags: scada,circontrol,circarlife,setup,exposure,panel,install
 
 http:
   - method: GET

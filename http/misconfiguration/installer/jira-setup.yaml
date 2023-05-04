@@ -7,7 +7,7 @@ info:
   metadata:
     verified: "true"
     shodan-query: title:"JIRA - JIRA setup"
-  tags: misconfig,jira,atlassian,installer
+  tags: misconfig,jira,atlassian,install
 
 http:
   - method: GET

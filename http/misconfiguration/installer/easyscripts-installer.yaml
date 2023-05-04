@@ -7,7 +7,7 @@ info:
   metadata:
     verified: true
     shodan-query: http.title:"Installer - Easyscripts"
-  tags: misconfig,easyscripts,installer
+  tags: misconfig,easyscripts,install
 
 http:
   - method: GET

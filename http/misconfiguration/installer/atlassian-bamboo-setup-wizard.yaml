@@ -7,7 +7,7 @@ info:
   metadata:
     verified: true
     shodan-query: title:"Bamboo setup wizard"
-  tags: misconfig,atlassian,bamboo,setup,installer
+  tags: misconfig,atlassian,bamboo,setup,install
 
 http:
   - method: GET
